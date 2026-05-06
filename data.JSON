@@ -1,0 +1,15 @@
+[ {
+  "name" : "Netfllix",
+  "cost" : 50.0,
+  "currency" : "PLN",
+  "category" : "ENTERTAINMENT",
+  "startDate" : "2026-01-16",
+  "type" : "MONTHLY"
+}, {
+  "name" : "Luxmed",
+  "cost" : 1200.0,
+  "currency" : "PLN",
+  "category" : "HEALTH",
+  "startDate" : "2026-01-16",
+  "type" : "MONTHLY"
+} ]
